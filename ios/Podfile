@@ -1,0 +1,5 @@
+platform :ios, '10.0'
+use_frameworks!
+  pod 'HafazQuranClient', :path => '../swagger/ios/output/'
+target 'HafazQuran' do
+end
