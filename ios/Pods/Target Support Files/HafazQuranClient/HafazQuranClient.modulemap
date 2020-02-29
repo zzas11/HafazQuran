@@ -1,6 +1,0 @@
-framework module HafazQuranClient {
-  umbrella header "HafazQuranClient-umbrella.h"
-
-  export *
-  module * { export * }
-}
